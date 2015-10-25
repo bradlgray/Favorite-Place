@@ -10,6 +10,11 @@ import UIKit
 
 class ViewController: UIViewController {
 
+    @IBAction func AboutGreenvilleTouch(sender: AnyObject) {
+    }
+    
+    @IBAction func PhotoTouch(sender: AnyObject) {
+    }
     override func viewDidLoad() {
         super.viewDidLoad()
         // Do any additional setup after loading the view, typically from a nib.
