@@ -258,7 +258,7 @@
                                                     <rect key="frame" x="0.0" y="0.0" width="61" height="42"/>
                                                 </variation>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="15" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="JZ3-I0-3QR">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="15" baselineAdjustment="alignBaselines" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="JZ3-I0-3QR">
                                                 <rect key="frame" x="0.0" y="50" width="558" height="182"/>
                                                 <animations/>
                                                 <string key="text">Greenville is the seat of Greenville County in upstate South Carolina, United States. The city's mayor is Knox White, who has served as the mayor of Greenville since December 1995.  Greenville is the third-largest urban area in South Carolina as well as the fastest growing. Greenville has gained recognition in various national publications such as CNN Money, which ranked Greenville as one of the "Top 10 Fastest Growing Cities in the U.S.
@@ -316,7 +316,7 @@
                                                     <rect key="frame" x="0.0" y="0.0" width="104" height="57"/>
                                                 </variation>
                                             </label>
-                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="16" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="BKx-Yg-nt7">
+                                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" ambiguous="YES" textAlignment="natural" lineBreakMode="tailTruncation" numberOfLines="16" baselineAdjustment="alignBaselines" minimumFontSize="10" translatesAutoresizingMaskIntoConstraints="NO" id="BKx-Yg-nt7">
                                                 <rect key="frame" x="0.0" y="45" width="547" height="159"/>
                                                 <animations/>
                                                 <string key="text">While it’s got a healthy arts presence, Greenville is all about the outdoors.  Explore downtown attractions like Falls Park or Cleveland Park, or the Swamp Rabbit Trail, by foot or with a bike rental. Within 30 minutes are Caesar’s Head and Jones Gap for hikes, photos and picnics, but Greenville also has its own mountain park right in town. 
